@@ -20,62 +20,102 @@ Time Period: Last 10 years
 
 Frequency: Daily stock data
 
+
+
 🧹 Data Preprocessing
 
 The notebook includes a detailed preprocessing pipeline:
 
 Cleaning raw CSV data
+
 Handling missing and duplicate values
+
 Converting data types to numeric formats
+
 Parsing and indexing datetime values
+
 Sorting time-series data
+
 Feature preparation for modeling
+
+
+
 📊 Exploratory Data Analysis (EDA)
 
 Extensive EDA is performed to understand trends and relationships:
 
 Yearly resampling and aggregation
+
 Visualization of Open, High, Low, Close prices
+
 Trading volume analysis
+
 Correlation heatmaps between features
+
 Volatility analysis (High–Low range)
+
 Percentage change trends
+
 Pairwise feature relationships
+
+
 
 🤖 Machine Learning Models (Planned / Implemented):
 
 The project explores deep learning approaches for time-series forecasting:
 
 LSTM with OHLCV features
+
 LSTM with Moving Averages
+
 LSTM with Technical Indicators
+
 RSI (Relative Strength Index)
+
 MACD (Moving Average Convergence Divergence)
+
 Bollinger Bands
 
 These models aim to capture temporal dependencies and improve prediction accuracy.
 
+
+
 📈 Key Features:
 
 End-to-end pipeline from data collection to model-ready dataset
+
 Financial time-series visualization
+
 Feature engineering using technical indicators
+
 Scalable framework for experimenting with multiple ML models
+
+
 
 🛠️ Tech Stack:
 
 Python
+
 Pandas & NumPy
+
 Matplotlib & Seaborn
+
 yFinance API
+
 TensorFlow / Keras (for LSTM models)
+
+
 
 📌 Future Improvements:
 
 Implementation of additional ML models (e.g., Random Forest, XGBoost)
+
 Model performance comparison and evaluation metrics
+
 Hyperparameter tuning
+
 Deployment as a web app or API
+
 
 📎 Conclusion:
 
