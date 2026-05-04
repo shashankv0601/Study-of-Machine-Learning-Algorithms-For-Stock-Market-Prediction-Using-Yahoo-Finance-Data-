@@ -1,6 +1,6 @@
 # Evaluating the Incremental Impact of Feature Engineering on LSTM-Based Stock Price Prediction: A NIFTY 50 Study
 
-📊 Comparative Study of Machine Learning Algorithms for Stock Market Prediction:
+📊 Evaluating the Incremental Impact of Feature Engineering on LSTM-Based Stock Price Prediction: A NIFTY 50 Study
 
 This project presents a comprehensive analysis of stock market prediction using machine learning techniques, leveraging historical financial data obtained from Yahoo Finance. The study focuses on preprocessing, exploratory data analysis (EDA), and preparing datasets for advanced predictive models such as LSTM.
 
