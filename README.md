@@ -1,4 +1,4 @@
-# Study-of-Machine-Learning-Algorithms-For-Stock-Market-Prediction-Using-Yahoo-Finance-Data
+# Evaluating the Incremental Impact of Feature Engineering on LSTM-Based Stock Price Prediction: A NIFTY 50 Study
 
 📊 Comparative Study of Machine Learning Algorithms for Stock Market Prediction:
 
